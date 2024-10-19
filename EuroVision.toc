@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: EuroVision
+## Author: Rikardur
+## Version: 1.0
+## Notes: This addon displays the price of items in Euro's instead of gold. Silver equates to cents and Copper is "micro cents"
+
+EuroVision.lua
